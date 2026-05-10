@@ -8,7 +8,7 @@
 }
 
 body {
-    background: url();
+    background: url(loginBg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -37,7 +37,7 @@ body {
 .logo {
     width: 100px;
     height: 100px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .nav-menu ul {
@@ -57,7 +57,7 @@ body {
 }
 
 .link:hover, .active {
-    border-bottom: 2px solid #faca52;
+    border-bottom: 2px solid #f8d49b;
 }
 
 .nav-button .btn {
